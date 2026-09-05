@@ -1,0 +1,56 @@
+{
+    "1": {
+        "width": 14, "height": 14,
+        "ghosts": 1, "player_speed": 2.0,
+        "ghost_speed": 2
+        },
+    "2": {
+        "width": 14, "height": 14,
+        "ghosts": 1, "player_speed": 2.0,
+        "ghost_speed": 2
+        },
+    "3": {
+        "width": 16, "height": 16,
+        "ghosts": 2, "player_speed": 2.0,
+        "ghost_speed": 2
+        },
+    "4": {
+        "width": 16, "height": 16,
+        "ghosts": 2, "player_speed": 2.0,
+        "ghost_speed": 2
+        },
+    "5": {
+        "width": 18, "height": 18,
+        "ghosts": 2, "player_speed": 2.5,
+        "ghost_speed": 2
+        },
+    "6": {
+        "width": 18, "height": 18,
+        "ghosts": 3, "player_speed": 2.5,
+        "ghost_speed": 2
+        },
+    "7": {
+        "width": 20, "height": 20,
+        "ghosts": 3, "player_speed": 2.5,
+        "ghost_speed": 2
+        },
+    "8": {
+        "width": 20, "height": 20,
+        "ghosts": 4, "player_speed": 2.5,
+        "ghost_speed": 2
+        },
+    "9": {
+        "width": 22, "height": 22,
+        "ghosts": 4, "player_speed": 3.0,
+        "ghost_speed": 2
+        },
+    "10": {
+        "width": 22, "height": 22,
+        "ghosts": 4, "player_speed": 3.5,
+        "ghost_speed": 2
+        },
+    "window_height": 960,
+    "window_width": 900,
+    "wall_thickness": 3,
+    "lives" : 3
+}
